@@ -1,1 +1,0 @@
-# Concurrent-Image-Verification-System
